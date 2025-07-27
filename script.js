@@ -1,5 +1,5 @@
 // Predefined valid redeem code
-const validCode = "SAVE20";
+const validCode = "EARLYACCESS55467";
 
 function validateCode() {
   const inputCode = document.getElementById("redeemCode").value.trim();
